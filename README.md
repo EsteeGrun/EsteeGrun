@@ -1,16 +1,26 @@
-## Hi there 👋
+# Esther Katya Gruen
 
-<!--
-**EsteeGrun/EsteeGrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied mathematician and machine learning researcher specializing in statistical modeling, AI systems, and predictive analytics.
 
-Here are some ideas to get you started:
+M.S. Mathematics (Statistics) — Michigan Technological University  
+PhD in Artificial Intelligence (incoming) — University of the Cumberlands
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Interests
+- Statistical Machine Learning
+- Large Language Models
+- Time Series Forecasting
+- Probabilistic Modeling
+- AI for Scientific Systems
+
+Technical Stack
+Python • R • PyTorch • TensorFlow • scikit-learn • NumPy • Pandas
+
+Selected Projects
+- Nobel Prize Sharing Prediction (Logistic Regression / GLM)
+- Obesity Level Prediction (SVM / ML models)
+- COVID-19 Global Case Prediction
+- Monte Carlo Simulation of t-Test Robustness
+- CPI Inflation Time-Series Forecasting
+
+Portfolio
+github.com/EsteeGrun
