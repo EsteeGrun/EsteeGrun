@@ -2,6 +2,7 @@
 
 Applied mathematician and machine learning researcher specializing in statistical modeling, AI systems, and predictive analytics.
 
+B.S. Mathematics
 M.S. Mathematics (Statistics) — Michigan Technological University  
 PhD in Artificial Intelligence (incoming) — University of the Cumberlands
 
