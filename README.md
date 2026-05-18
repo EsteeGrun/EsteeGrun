@@ -1,4 +1,4 @@
-# Esther Katya Gruen
+# Katya Gruen
 
 Applied mathematician and machine learning researcher specializing in statistical modeling, AI systems, and predictive analytics.
 
