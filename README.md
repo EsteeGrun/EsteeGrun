@@ -19,9 +19,7 @@ Python • R • PyTorch • TensorFlow • scikit-learn • NumPy • Pandas
 Selected Projects
 - Nobel Prize Sharing Prediction (Logistic Regression / GLM)
 - Obesity Level Prediction (SVM / ML models)
-- COVID-19 Global Case Prediction
 - Monte Carlo Simulation of t-Test Robustness
-- CPI Inflation Time-Series Forecasting
 
 Portfolio
 github.com/EsteeGrun
