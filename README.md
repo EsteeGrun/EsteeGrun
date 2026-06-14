@@ -1,23 +1,38 @@
 ## Katya Gruen
 
-Applied mathematician and machine learning researcher specializing in statistical modeling, machine learning, AI systems, and predictive analytics.
+PhD Researcher in AI & Game Theory | Quantitative Microstructure | Operations Research & Applied Econometrics
 
-B.S. Mathematics — University of Colorado  
-M.S. Mathematical Sciences / Statistics — Michigan Technological University  
-Ph.D. in Artificial Intelligence — University of the Cumberlands, incoming
-## Research Interests
-- Statistical Machine Learning
-- Large Language Models
-- Time Series Forecasting
-- Probabilistic Modeling
-- AI for Scientific and Technical Systems
-- Model Evaluation and Robustness
-## Technical Stack
-Python · R · PyTorch · TensorFlow · scikit-learn · NumPy · Pandas · SQL · Git · GitHub
-## Selected Projects
-- **Monte Carlo Simulation for t-Test Robustness** — simulation study evaluating Type I error behavior under distributional assumptions.
-- **Nobel Prize Sharing Prediction** — logistic regression / GLM modeling project predicting shared vs. individual Nobel Prize awards.
-- **Obesity Level Prediction** — supervised machine learning project using SVM and classification models.
-- **Construction Document Intelligence** — Python/NLP project for extracting and structuring information from construction-related documents.
+# Katya Gruen
+
+PhD Researcher specializing in the intersection of Algorithmic Game Theory, Multi-Agent Reinforcement Learning (MARL), and Quantitative Finance. My research focuses on optimizing market microstructure execution under conditions of heteroscedasticity and asymmetric information.
+
+🎓 **Ph.D. in Artificial Intelligence** — University of the Cumberlands
+🎓 **M.S. in Mathematical Sciences / Statistics** — Michigan Technological University
+🎓 **B.S. in Mathematics** — University of Colorado
+---
+## 📊 Research Focus & Interests
+*   **Adversarial Market Microstructure**: Modeling sequential liquidity provision as extensive-form games using Subgame Perfect Equilibrium (SPE) and Bayesian Nash Equilibrium (BNE).
+*   **Asymmetric Information Modeling**: Applying Harsanyi Transformations to continuous type spaces (e.g., exponential distribution order-decay modeling) to quantify adverse selection risks.
+*   **Stochastic Operations Research**: Coupling time-series econometric pipelines (GARCH frameworks) with multi-agent reinforcement learning reward engines to stabilize liquidity provision.
+*   **Statistical Mechanics of Asset Streams**: Developing robust risk frameworks utilizing conditional variance metrics to dynamically adjust algorithmic spread strategies.
+---
+## 🛠 Technical Stack
+*   **Languages & Frameworks**: Python, R, PyTorch, Stable-Baselines3, Ray/RLlib, OpenAI Gym/Farama Gymnasium
+*   **Econometrics & Data Science**: NumPy, Pandas, Statsmodels (ARCH/GARCH modeling), SciPy Optimization, SQL
+*   **Tooling & Dev**: Git, GitHub, Linux/HPC Clusters, LaTeX
+---
+## 🔬 Core Doctoral Projects & Implementations
+*   **GARCH-MARL Liquidity Engine** 
+    *Developed a multi-agent reinforcement learning pipeline where agent reward engines are dynamically scaled by continuous-type exponential decay distributions derived from live conditional heteroscedasticity estimators.*
+*   **Bayesian Nash Extensive-Form Order Simulator**
+    *Built an extensive-form game simulator that maps hidden order-book states into information sets, solving for vectorized best responses across discrete and continuous type spaces via backward induction.*
+*   **Monte Carlo Simulation for t-Test Robustness** (from `ttest-monte-carlo`)
+    *A foundation study evaluating Type I error behavior and structural decay under non-standard distributional assumptions.*
+*   **Continual MTM Memory Architectures** (from `continual-mtm-memory`)
+    *Python-based implementation tracking recurrent memory state spaces, adapted for capturing long-term temporal dependencies in non-stationary time series.*
+---
+## 📬 Connect with Me
+*   **Email**: liri6518@colorado.edu \ kribeir@mtu.edu
+*   **Academic Base**: Bioggio / Saphyrion Sagl
 ## Portfolio
 github.com/EsteeGrun
