@@ -1,7 +1,3 @@
-## Katya Gruen
-
-PhD Researcher in AI & Game Theory | Quantitative Microstructure | Operations Research & Applied Econometrics
-
 # Katya Gruen
 
 PhD Researcher specializing in the intersection of Algorithmic Game Theory, Multi-Agent Reinforcement Learning (MARL), and Quantitative Finance. My research focuses on optimizing market microstructure execution under conditions of heteroscedasticity and asymmetric information.
