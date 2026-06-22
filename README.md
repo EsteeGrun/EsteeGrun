@@ -1,6 +1,6 @@
 # Hi, I'm Katya Gruen
 
-I am an incoming Ph.D. student in **Artificial Intelligence** with a background in **mathematics, statistics, machine learning, and data science**. My research interests focus on **continual learning, adaptive memory, LLM-based systems, cybersecurity AI, concept drift, and robust sequential decision-making**.
+I am a Ph.D. student in **Artificial Intelligence** with a background in **mathematics, statistics, machine learning, and data science**. My research interests focus on **continual learning, adaptive memory, LLM-based systems, cybersecurity AI, concept drift, and robust sequential decision-making**.
 
 My current research direction is centered on:
 
