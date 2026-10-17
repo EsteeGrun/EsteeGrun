@@ -8,7 +8,7 @@ I am an Applied AI Engineer and Data Scientist specializing in autonomous agent 
 
 ### 🔬 Current Research & Focus
 
-- **Metacognitive Memory Routing (RAMR):** Developing **Retrieval-Augmented Memory Routing (RAMR)** to mitigate behavioral drift and catastrophic forgetting in long-horizon autonomous LLM execution.
+- **Metacognitive Memory Routing (RAMR):** Developing **Representation-Aware Memory Routing (RAMR)** to mitigate behavioral drift and catastrophic forgetting in long-horizon autonomous LLM execution.
 - **Topological Deep Learning & LatticeDB:** Designing hybrid vector-graph memory architectures that model causal agent execution histories as directed graphs and Cellular Sheaves.
 - **Predictive-State Divergence:** Investigating action-conditioned predictive state modeling and Sheaf-Laplacian mechanisms to detect trajectory instability and trigger selective self-improvement.
 - **Empirical AI Validation:** Applying rigorous statistical methods (ANOVA, Monte Carlo simulations, Bayesian modeling) to evaluate AI reliability, type I error behavior, and long-horizon stability.
